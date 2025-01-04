@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Expense Manager"
-include(":app")
+include(":expense-manager")
